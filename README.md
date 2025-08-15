@@ -1,7 +1,7 @@
 # nlp_news_headline
 
-# 1. Dataset links
-- I have Generate a CSV file from the Original (raw text files) downloaded from this
+# 1. Dataset link
+- I have Generated a CSV file from the Original (raw text files) downloaded from this
 link => http://mlg.ucd.ie/datasets/bbc.html
 
 # 2. How to run the code
