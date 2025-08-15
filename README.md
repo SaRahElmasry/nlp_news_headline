@@ -9,6 +9,6 @@ link => http://mlg.ucd.ie/datasets/bbc.html
 
 # 3. Dependencies
 - Do not forget to install these packages, if they were not pre installed on your pc.
-  (pandas, numpy, tensorflow , sklearn , nltk , re, punkt)
+  (pandas, numpy, tensorflow , sklearn , nltk , re, punkt, tf-keras)
 
 
